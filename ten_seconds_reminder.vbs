@@ -1,0 +1,1 @@
+x=msgbox("Computer will hibernate automatically in 10 seconds!", 0, "Hibernation Reminder")
